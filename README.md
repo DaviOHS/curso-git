@@ -2,7 +2,7 @@
 
 Aqui teremos as orientações e informações relativas ao nosso projeto.
 
-# Subtítulo do meu README
+## Subtítulo do meu README
 
 - Tópico 1: tatitita
 - Tópico 2: tititi
